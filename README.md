@@ -1,6 +1,18 @@
 # Forum
 
 # Identifians de connexion
-<b>Administrateur</b> (pour la partie admin) : admin@gmail.com / Azerty123<br>
-<b>Modérateur</b> : tomodo / Azerty123<br>
-<b>Utilisateur</b> : tomuser / Azerty123
+
+Administrateur (pour la partie admin)
+--------------
+<b>Adresse email</b> : admin@gmail.com<br>
+<b>Mot de passe</b> : Azerty123
+
+Modérateur
+----------
+<b>Pseudo</b> : tomodo<br>
+<b>Mot de passe</b> : Azerty123
+
+Utilisateur
+-----------
+<b>Pseudo</b> : tomuser<br>
+<b>Mot de passe</b> : Azerty123
